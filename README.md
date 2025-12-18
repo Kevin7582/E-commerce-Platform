@@ -53,3 +53,6 @@ Note: This is a demo deployment for evaluation purposes.
 
 ## Project status
 🚧 Work in progress — core features under development.
+
+For architectural and design decisions, see [DESIGN.md](DESIGN.md).
+

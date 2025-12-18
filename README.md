@@ -17,13 +17,36 @@ Note: This is a demo deployment for evaluation purposes.
 - Basic inventory tracking
 
 ## Tech stack
-Backend: __________
 
-Database: __________
+- Language: Java 21
 
-API: ______
+- Backend Framework: Spring Boot
 
-Frontend: __________
+- API: REST
+
+- Database: PostgreSQL
+
+- ORM: Spring Data JPA (Hibernate)
+
+- Database Migrations: Flyway
+
+- API Documentation: OpenAPI / Swagger (springdoc-openapi)
+
+- Testing: JUnit 5
+
+- Containerization: Docker (for local development and deployment)
+
+## Optional / Planned (Future)
+
+(to be added as the project evolves)
+
+- Security: Spring Security
+
+- Integration Testing: Testcontainers
+
+- Caching: Redis
+
+- Messaging: Message Queue (e.g. RabbitMQ or Kafka)
 
 ## How to run
 ....
